@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        &copy; {new Date().getFullYear()} InstaPDF. All rights reserved.
+        &copy; {new Date().getFullYear()} LinkSnap. All rights reserved.
       </div>
     </footer>
   )
